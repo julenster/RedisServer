@@ -15,10 +15,10 @@ public class RespParser
 
         return mensajeParseado;
     }
-    public string ParseString(ref int indice, string mensaje) // Para el String se pone un + y al final un \r\n, por lo que tengo que borrar el primer char y los 4 ultimos.
+    public StringSimple ParseString(ref int indice, string mensaje) // Para el String se pone un + y al final un \r\n, por lo que tengo que borrar el primer char y los 4 ultimos.
     {
-        
-        return ReadLine(ref indice, mensaje);
+        var simpleString = new StringSimple(ReadLine(ref indice, mensaje));
+        return simpleString;
     }
 
     public string ParseNullBulkString(ref int indice, string mensaje) // Luego cambiar a private y que sea el propio parsebulkstring el que lidie con eso

@@ -9,3 +9,4 @@ C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug
 C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\refint\RedisServer.dll
 C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.pdb
 C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\ref\RedisServer.dll
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.sourcelink.json

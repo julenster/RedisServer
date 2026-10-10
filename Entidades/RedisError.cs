@@ -1,6 +1,6 @@
 ﻿namespace RedisServer;
 
-public class RedisError
+public class RedisError 
 {
     private string mensajeError;
 
