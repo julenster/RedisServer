@@ -1,6 +1,4 @@
-﻿using System.Security.AccessControl;
-
-namespace RedisServer;
+﻿namespace RedisServer;
 // ESTA CLASE ES PARA SERIALIZAR LISTAS AL FORMATO RESP PARA ENVIAR LOS MENSAJES
 public class RespSerializer
 {
@@ -24,7 +22,7 @@ public class RespSerializer
             StringSimple ss => SerializeStringSimple(ss),
             null => SerializeNullBulkString(),
             List<object> l => SerializeArray(l),
-            _ => throw new NotImplementedException("Ayuda el colapso es mental"),
+            _ => throw new NotImplementedException("Ayuda el colapso es mental, este tipo de datos no esta contemplado chat"),
         };
 
     }
