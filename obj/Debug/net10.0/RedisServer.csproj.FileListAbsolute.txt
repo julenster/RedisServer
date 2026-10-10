@@ -1,0 +1,11 @@
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.AssemblyInfoInputs.cache
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.AssemblyInfo.cs
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.csproj.CoreCompileInputs.cache
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\bin\Debug\net10.0\RedisServer.deps.json
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\bin\Debug\net10.0\RedisServer.dll
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\bin\Debug\net10.0\RedisServer.pdb
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.dll
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\refint\RedisServer.dll
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\RedisServer.pdb
+C:\Users\julen\Documents\RiderProjects\RedisServerSolucion\RedisServer\obj\Debug\net10.0\ref\RedisServer.dll
