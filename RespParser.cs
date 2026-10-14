@@ -21,7 +21,7 @@ public class RespParser
         return simpleString;
     }
 
-    public string ParseNullBulkString(ref int indice, string mensaje) // Luego cambiar a private y que sea el propio parsebulkstring el que lidie con eso
+    public string ParseNullBulkString() // Luego cambiar a private y que sea el propio parsebulkstring el que lidie con eso
     {
         return null;
     }
@@ -34,7 +34,7 @@ public class RespParser
         {
             if (numeroCaracteres < 0)
             {
-                return ParseNullBulkString(ref indice, mensaje);
+                return ParseNullBulkString();
             }
             var principio = indice;
             indice = indice + numeroCaracteres;
